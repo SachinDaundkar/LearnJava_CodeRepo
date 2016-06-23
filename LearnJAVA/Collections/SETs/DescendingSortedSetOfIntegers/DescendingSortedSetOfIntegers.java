@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Collections.SETs.DescendingSortedSetOfIntegers;
+package com.LearnJava_CodeRepo.LearnJAVA.Collections.SETs.DescendingSortedSetOfIntegers;
 
 import java.util.*;
 

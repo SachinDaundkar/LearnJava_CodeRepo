@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Generics.LargestValue;
+package com.LearnJava_CodeRepo.LearnJAVA.Generics.LargestValue;
 
 import java.util.Arrays;
 import java.util.Collections;

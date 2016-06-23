@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Fundamentals.Abstraction.StackDemo;
+package com.LearnJava_CodeRepo.LearnJAVA.Fundamentals.Abstraction.StackDemo;
 
 /**
  * Created by sachin on 16-06-2016.

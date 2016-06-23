@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Collections.MAPs.MapOfWordFrequency;
+package com.LearnJava_CodeRepo.LearnJAVA.Collections.MAPs.MapOfWordFrequency;
 
 import java.io.File;
 import java.io.FileNotFoundException;

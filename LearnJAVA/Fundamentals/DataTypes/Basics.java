@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Fundamentals.DataTypes;
+package com.LearnJava_CodeRepo.LearnJAVA.Fundamentals.DataTypes;
 
 import java.util.Scanner;
 

@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Collections.LISTs.ArrayListSortedWords;
+package com.LearnJava_CodeRepo.LearnJAVA.Collections.LISTs.ArrayListSortedWords;
 
 import java.util.ArrayList;
 

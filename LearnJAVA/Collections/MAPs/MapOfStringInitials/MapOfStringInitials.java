@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Collections.MAPs.MapOfStringInitials;
+package com.LearnJava_CodeRepo.LearnJAVA.Collections.MAPs.MapOfStringInitials;
 
 import java.util.Map;
 import java.util.TreeMap;

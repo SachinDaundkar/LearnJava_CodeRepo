@@ -1,4 +1,4 @@
-package com.LearnJAVA.Collections.StackAndQueue.ParenthesisNesting;
+package com.LearnJava_CodeRepo.LearnJAVA.Collections.StackAndQueue.ParenthesisNesting;
 
 /**
  * Created by Sachin on 6/7/2016.

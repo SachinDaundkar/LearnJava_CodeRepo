@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Collections.MAPs.PhoneBook;
+package com.LearnJava_CodeRepo.LearnJAVA.Collections.MAPs.PhoneBook;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

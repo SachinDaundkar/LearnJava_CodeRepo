@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Collections.SETs.SetOfEmployees;
+package com.LearnJava_CodeRepo.LearnJAVA.Collections.SETs.SetOfEmployees;
 
 import java.util.*;
 

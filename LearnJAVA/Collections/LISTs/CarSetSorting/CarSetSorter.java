@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Collections.LISTs.CarSetSorting;
+package com.LearnJava_CodeRepo.LearnJAVA.Collections.LISTs.CarSetSorting;
 
 import java.util.ArrayList;
 import java.util.Collections;

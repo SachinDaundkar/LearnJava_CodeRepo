@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Collections.MAPs.PhoneBook;
+package com.LearnJava_CodeRepo.LearnJAVA.Collections.MAPs.PhoneBook;
 
 /**
  * Created by sachin on 20-06-2016.

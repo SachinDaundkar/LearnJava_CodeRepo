@@ -2,7 +2,7 @@
  * COPYRIGHT (C) 2016 Sachin Daundkar. All Rights Reserved.
  */
 
-package com.LearnJAVA.Inheritance.AccountDemo;
+package com.LearnJava_CodeRepo.LearnJAVA.Inheritance.AccountDemo;
 
 /**
  * Created by sachin on 15-06-2016.

@@ -1,4 +1,4 @@
-package com.LearnJAVA;
+package com.LearnJava_CodeRepo.LearnJAVA;
 
 /**
  * Created by sachin on 31-05-2016.

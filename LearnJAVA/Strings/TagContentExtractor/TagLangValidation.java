@@ -1,4 +1,4 @@
-package com.LearnJAVA.Strings.TagContentExtractor;
+package com.LearnJava_CodeRepo.LearnJAVA.Strings.TagContentExtractor;
 
 /**
  * Created by sachin on 31-05-2016.
