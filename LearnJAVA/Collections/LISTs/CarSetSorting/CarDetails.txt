@@ -1,0 +1,6 @@
+Make,Model,LicenceNumber,Year
+Toyota,Camry,(622-VRX),1985
+Ford,Mustang,(AZUCAR),1966
+Chevrolet,Chevette,(J43-SMB),1980
+Ford,Mustang-2,(AZUCAR-2),1866
+Ford,Mustang-2,(AZUCAR-3),1979
