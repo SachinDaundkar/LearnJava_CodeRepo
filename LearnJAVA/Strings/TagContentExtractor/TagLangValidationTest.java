@@ -1,6 +1,6 @@
 package com.LearnJava_CodeRepo.LearnJAVA.Strings.TagContentExtractor;
 
-import com.LearnJAVA.Strings.TagContentExtractor.TagLangValidation;
+import com.LearnJava_CodeRepo.LearnJAVA.Strings.TagContentExtractor.TagLangValidation;
 import org.junit.Before;
 import org.junit.Test;
 
